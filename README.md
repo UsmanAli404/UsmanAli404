@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @UsmanAli404
-- 👀 I’m interested in 
+- 👋 Hi, I’m Usman Ali
+- 👀 I’m interested in programming, chess, and phiolosophy
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on exciting projects
 - 📫 Reach me via my email: aottoman551@gmail.com

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Usman Ali
-- 👀 I’m interested in programming, chess, and phiolosophy
-- 🌱 I’m currently learning machine learning
+- 👀 I’m interested in programming, chess, phiolosophy, history, and current affairs
+- 🌱 I’m currently learning machine learning, and doing leetcode
 - 💞️ I’m looking to collaborate on exciting projects
 - 📫 Reach me via my email: aottoman551@gmail.com
 

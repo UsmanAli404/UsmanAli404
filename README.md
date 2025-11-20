@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Usman Ali
+- 👋 Hi, I’m Usman
 - I’m interested in programming, chess, phiolosophy, history, and current affairs
 - I’m currently learning ML, and doing leetcode
 - I’m looking to collaborate on exciting projects
